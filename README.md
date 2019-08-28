@@ -1,4 +1,4 @@
-# Spot Hero Parking Rate Exercise
+# Parking Rate Exercise
 
 
 ## Install:
